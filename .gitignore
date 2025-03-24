@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.json
+credentials*
+itinerary.json
+caches/*/*.json
